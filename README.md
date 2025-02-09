@@ -1,0 +1,1 @@
+This repository contains a simple C program demonstrating a potential memory leak.  The program attempts to allocate memory using `malloc` and copies data from an existing array.  However, error handling for memory allocation is incomplete, leading to potential leaks. A solution is provided to illustrate correct memory management.
